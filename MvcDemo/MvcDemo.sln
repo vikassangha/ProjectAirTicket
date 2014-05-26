@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDemo", "MvcDemo\MvcDemo.csproj", "{B29915B2-E7C8-430E-915A-2F17B999B6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "businesLayer", "businesLayer\businesLayer.csproj", "{F43AFD83-CE5D-4314-991E-6EAC42B38722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29915B2-E7C8-430E-915A-2F17B999B6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29915B2-E7C8-430E-915A-2F17B999B6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29915B2-E7C8-430E-915A-2F17B999B6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29915B2-E7C8-430E-915A-2F17B999B6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43AFD83-CE5D-4314-991E-6EAC42B38722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43AFD83-CE5D-4314-991E-6EAC42B38722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43AFD83-CE5D-4314-991E-6EAC42B38722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43AFD83-CE5D-4314-991E-6EAC42B38722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
